@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is TM and I'm a Tech Enthusiast, from Earth! 🌍</h2>
+<h2 align="left">Hello world! 👋 This is TM, and I'm a tech enthusiast from Earth! 🌍</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5tMnpnc3gyNGdvOGRhOGRybW9mcW54dnlscDVuandwa3llMnh6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qc0BxWM9TxljvJug2x/giphy.gif"  />
+<img align="right" height="150" src="https://c.tenor.com/BT6SV4XT52AAAAAd/tenor.gif"  />
 
 ###
 
